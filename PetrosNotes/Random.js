@@ -10,3 +10,7 @@
 
 // How react updates UI?
 // -> State driven (Re-render components)
+
+// Pure React
+
+// ->
